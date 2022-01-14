@@ -14,7 +14,7 @@ The DNA, RNA, or protein sequences can be encoded using a series of letters, inc
 There is great significance to the full identity of two sequences or to the degree of closeness between them. One of the classic problems in bioinformatics is to identify whether there is another SEQ2 subset in the given sequence SEQ1. And if not - what is the place in SEQ1 that is most similar to SEQ2 in terms of a certain proximity criterion.
 
 The figure shows two sequences of the same size, SEQ1 and below it SEQ2. Sequence SEQ2 starts from place 5 relative to the beginning of SEQ1. The sequence of signs is the size of SEQ2.
-    * A hyphen symbolizes a lack of amino acid at a certain place in the sequence.
+*A hyphen symbolizes a lack of amino acid at a certain place in the sequence.
     * The bottom line shows comparison marks between the letters in the sequences:
     * Asterisk - the letters are the same (same amino acid)
     * Spacing - the letters are not the same (different amino acids)
