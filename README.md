@@ -17,7 +17,7 @@ The figure shows two sequences of the same size, SEQ1 and below it SEQ2. Sequenc
 * A hyphen symbolizes a lack of amino acid at a certain place in the sequence.
 * The bottom line shows comparison marks between the letters in the sequences:
     * Asterisk ( * ) - the letters are the same (same amino acid)
-    * Spacing ( * ) - the letters are not the same (different amino acids)
+    * Spacing (   ) - the letters are not the same (different amino acids)
     * Colonal ( : ) - the letters are not the same (different amino acids but with close properties)
     * Dot ( . ) - the letters are not the same (different amino acids with similar properties)
 
