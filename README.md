@@ -53,7 +53,7 @@ The comparison is made between all pairs SEQ1 [n + i] and SEQ2 [i] as long as SE
 The sequence of signs should be kept compressed, using a minimum amount of memory.
 Hint: Only four different comparison marks were defined - space, asterisk, colon and dot.
 
-Write a getCount function to evaluate the proximity between the two sequences. The function receives a sequence of comparison marks in a compressed form and returns the difference between the number of asterisks and the number of points in the sequence.
+3. Write a getCount function to evaluate the proximity between the two sequences. The function receives a sequence of comparison marks in a compressed form and returns the difference between the number of asterisks and the number of points in the sequence.
  
 4. Write an evaluationDifference function that takes two sequences of letters SEQ1 and SEQ2 of different sizes and position n. The function returns the proximity value between the two sequences. The comparison is made between all pairs SEQ1 [n + i] and SEQ2 [i] as long as SEQ2 does not "slide" from SEQ1. The place numbering starts from 0.
 
