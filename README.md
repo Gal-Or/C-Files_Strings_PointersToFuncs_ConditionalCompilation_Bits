@@ -16,10 +16,10 @@ There is great significance to the full identity of two sequences or to the degr
 The figure shows two sequences of the same size, SEQ1 and below it SEQ2. Sequence SEQ2 starts from place 5 relative to the beginning of SEQ1. The sequence of signs is the size of SEQ2.
 * A hyphen symbolizes a lack of amino acid at a certain place in the sequence.
 * The bottom line shows comparison marks between the letters in the sequences:
-    * Asterisk - the letters are the same (same amino acid)
-    * Spacing - the letters are not the same (different amino acids)
-    * Colonal - the letters are not the same (different amino acids but with close properties)
-    * Dot - the letters are not the same (different amino acids with similar properties)
+    * Asterisk ( * ) - the letters are the same (same amino acid)
+    * Spacing ( * ) - the letters are not the same (different amino acids)
+    * Colonal ( : ) - the letters are not the same (different amino acids but with close properties)
+    * Dot ( . ) - the letters are not the same (different amino acids with similar properties)
 
 ![image](https://user-images.githubusercontent.com/74857750/149570800-db1c3ce6-8ceb-4a70-8d28-38524bdf3f33.png)
 
